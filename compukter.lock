@@ -1,0 +1,20 @@
+format = 3
+
+[toolchain]
+compiler = "2.4.10"
+language = "2.4"
+codegen_abi = 1
+artifact_abi = 2
+artifact_writer = 1
+payload_sha256 = "f642ee1bb11da6ea73f71b18a543cfe3a3cb740c0581b8760801807daee51b7f"
+platform_abi_sha256 = "c0c9a15577e07672644abe32713d42e4a51edf27fed841e1d6a5ed184069b123"
+
+[[addons]]
+id = "create"
+version = "2.1"
+content_sha256 = "47570dc30aaabddfa2b8a30e678d981199f3e9bb33b9f083a09b13c438916c2d"
+
+[[addons]]
+id = "createaddition"
+version = "2.0"
+content_sha256 = "3849b65be6f8a95eb507a5c67e8839e7981449271d6749f72aff0dcc76cb700d"
