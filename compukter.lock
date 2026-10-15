@@ -6,7 +6,7 @@ language = "2.4"
 codegen_abi = 1
 artifact_abi = 2
 artifact_writer = 1
-payload_sha256 = "f642ee1bb11da6ea73f71b18a543cfe3a3cb740c0581b8760801807daee51b7f"
+payload_sha256 = "d0af0c982c634963ff26042d71f9cdce7a0652b5fb21c4dcde5f51b650db611e"
 platform_abi_sha256 = "c0c9a15577e07672644abe32713d42e4a51edf27fed841e1d6a5ed184069b123"
 
 [[addons]]
